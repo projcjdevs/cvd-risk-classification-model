@@ -1,0 +1,5 @@
+# Python Environments
+venv/
+.venv/
+env/
+data/
